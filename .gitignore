@@ -1,0 +1,7 @@
+data/
+study/participants/
+study/audio/
+__pycache__/
+*.pyc
+models/voice/
+vibe/_*.log

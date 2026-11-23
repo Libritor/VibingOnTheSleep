@@ -1,0 +1,464 @@
+{
+ "nights": 20,
+ "hours_per_night": 6.0,
+ "cues": 5036,
+ "stage_at_cue": {
+  "N2": 779,
+  "N3": 4234,
+  "REM": 1,
+  "W": 22
+ },
+ "share_in_N3": 0.841,
+ "share_in_N2_N3": 0.995,
+ "share_in_W": 0.0044,
+ "share_in_REM": 0.0002,
+ "nights_with_cues": 20,
+ "median_share_of_N3_cued": 0.814,
+ "per_night": [
+  {
+   "source": "SC4001E0-PSG.edf",
+   "start_hours": 8.008333333333333,
+   "hours": 6.0,
+   "cues": 413,
+   "stage_at_cue": {
+    "N2": 42,
+    "N3": 369,
+    "REM": 1,
+    "W": 1
+   },
+   "share_in_N2_N3": 0.995,
+   "share_in_N3": 0.893,
+   "share_in_W_REM_N1": 0.005,
+   "scored_N3_minutes": 110.0,
+   "share_of_N3_cued": 0.732,
+   "threshold": 0.85,
+   "pauses": {
+    "no": 140,
+    "eye": 228,
+    "alpha": 645,
+    "muscle": 620
+   }
+  },
+  {
+   "source": "SC4011E0-PSG.edf",
+   "start_hours": 5.483333333333333,
+   "hours": 6.0,
+   "cues": 254,
+   "stage_at_cue": {
+    "N2": 49,
+    "N3": 205
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.807,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 44.5,
+   "share_of_N3_cued": 0.978,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 573,
+    "no": 17,
+    "muscle": 758,
+    "alpha": 7
+   }
+  },
+  {
+   "source": "SC4021E0-PSG.edf",
+   "start_hours": 5.575,
+   "hours": 6.0,
+   "cues": 226,
+   "stage_at_cue": {
+    "N2": 73,
+    "N3": 152,
+    "W": 1
+   },
+   "share_in_N2_N3": 0.996,
+   "share_in_N3": 0.673,
+   "share_in_W_REM_N1": 0.004,
+   "scored_N3_minutes": 46.5,
+   "share_of_N3_cued": 0.731,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 458,
+    "no": 212,
+    "muscle": 1075,
+    "alpha": 14
+   }
+  },
+  {
+   "source": "SC4031E0-PSG.edf",
+   "start_hours": 6.758333333333334,
+   "hours": 6.0,
+   "cues": 302,
+   "stage_at_cue": {
+    "N2": 182,
+    "N3": 118,
+    "W": 2
+   },
+   "share_in_N2_N3": 0.993,
+   "share_in_N3": 0.391,
+   "share_in_W_REM_N1": 0.007,
+   "scored_N3_minutes": 28.5,
+   "share_of_N3_cued": 0.947,
+   "threshold": 0.85,
+   "pauses": {
+    "no": 48,
+    "eye": 579,
+    "alpha": 180,
+    "muscle": 493
+   }
+  },
+  {
+   "source": "SC4041E0-PSG.edf",
+   "start_hours": 6.266666666666667,
+   "hours": 6.0,
+   "cues": 119,
+   "stage_at_cue": {
+    "N2": 23,
+    "N3": 95,
+    "W": 1
+   },
+   "share_in_N2_N3": 0.992,
+   "share_in_N3": 0.798,
+   "share_in_W_REM_N1": 0.008,
+   "scored_N3_minutes": 26.0,
+   "share_of_N3_cued": 0.788,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 241,
+    "no": 172,
+    "alpha": 1611,
+    "muscle": 491
+   }
+  },
+  {
+   "source": "SC4051E0-PSG.edf",
+   "start_hours": 10.241666666666667,
+   "hours": 6.0,
+   "cues": 334,
+   "stage_at_cue": {
+    "N2": 51,
+    "N3": 277,
+    "W": 6
+   },
+   "share_in_N2_N3": 0.982,
+   "share_in_N3": 0.829,
+   "share_in_W_REM_N1": 0.018,
+   "scored_N3_minutes": 67.5,
+   "share_of_N3_cued": 0.867,
+   "threshold": 0.85,
+   "pauses": {
+    "alpha": 2323,
+    "eye": 353,
+    "no": 271,
+    "muscle": 1250
+   }
+  },
+  {
+   "source": "SC4061E0-PSG.edf",
+   "start_hours": 7.291666666666667,
+   "hours": 6.0,
+   "cues": 305,
+   "stage_at_cue": {
+    "N2": 22,
+    "N3": 283
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.928,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 68.0,
+   "share_of_N3_cued": 0.89,
+   "threshold": 0.85,
+   "pauses": {
+    "no": 327,
+    "eye": 302,
+    "alpha": 531,
+    "muscle": 151
+   }
+  },
+  {
+   "source": "SC4071E0-PSG.edf",
+   "start_hours": 7.275,
+   "hours": 6.0,
+   "cues": 351,
+   "stage_at_cue": {
+    "N2": 26,
+    "N3": 325
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.926,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 81.0,
+   "share_of_N3_cued": 0.864,
+   "threshold": 0.85,
+   "pauses": {
+    "alpha": 1451,
+    "eye": 238,
+    "muscle": 651,
+    "no": 9
+   }
+  },
+  {
+   "source": "SC4081E0-PSG.edf",
+   "start_hours": 6.191666666666666,
+   "hours": 6.0,
+   "cues": 291,
+   "stage_at_cue": {
+    "N2": 19,
+    "N3": 264,
+    "W": 8
+   },
+   "share_in_N2_N3": 0.973,
+   "share_in_N3": 0.907,
+   "share_in_W_REM_N1": 0.027,
+   "scored_N3_minutes": 120.0,
+   "share_of_N3_cued": 0.475,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 759,
+    "alpha": 274,
+    "muscle": 767,
+    "no": 653
+   }
+  },
+  {
+   "source": "SC4091E0-PSG.edf",
+   "start_hours": 6.208333333333333,
+   "hours": 6.0,
+   "cues": 109,
+   "stage_at_cue": {
+    "N2": 11,
+    "N3": 98
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.899,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 74.0,
+   "share_of_N3_cued": 0.297,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 521,
+    "no": 69,
+    "muscle": 1032
+   }
+  },
+  {
+   "source": "SC4101E0-PSG.edf",
+   "start_hours": 5.85,
+   "hours": 6.0,
+   "cues": 128,
+   "stage_at_cue": {
+    "N2": 115,
+    "N3": 13
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.102,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 3.0,
+   "share_of_N3_cued": 1.0,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 231,
+    "no": 96,
+    "muscle": 729,
+    "alpha": 4
+   }
+  },
+  {
+   "source": "SC4111E0-PSG.edf",
+   "start_hours": 7.291666666666667,
+   "hours": 6.0,
+   "cues": 98,
+   "stage_at_cue": {
+    "N3": 98
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 1.0,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 60.5,
+   "share_of_N3_cued": 0.355,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 774,
+    "no": 174,
+    "muscle": 740,
+    "alpha": 1
+   }
+  },
+  {
+   "source": "SC4121E0-PSG.edf",
+   "start_hours": 7.5166666666666675,
+   "hours": 6.0,
+   "cues": 222,
+   "stage_at_cue": {
+    "N2": 34,
+    "N3": 188
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.847,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 50.5,
+   "share_of_N3_cued": 0.842,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 282,
+    "alpha": 856,
+    "muscle": 1184,
+    "no": 18
+   }
+  },
+  {
+   "source": "SC4131E0-PSG.edf",
+   "start_hours": 7.5166666666666675,
+   "hours": 6.0,
+   "cues": 327,
+   "stage_at_cue": {
+    "N2": 6,
+    "N3": 319,
+    "W": 2
+   },
+   "share_in_N2_N3": 0.994,
+   "share_in_N3": 0.976,
+   "share_in_W_REM_N1": 0.006,
+   "scored_N3_minutes": 68.5,
+   "share_of_N3_cued": 0.978,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 634,
+    "no": 482,
+    "alpha": 786,
+    "muscle": 915
+   }
+  },
+  {
+   "source": "SC4141E0-PSG.edf",
+   "start_hours": 6.483333333333333,
+   "hours": 6.0,
+   "cues": 225,
+   "stage_at_cue": {
+    "N2": 29,
+    "N3": 195,
+    "W": 1
+   },
+   "share_in_N2_N3": 0.996,
+   "share_in_N3": 0.867,
+   "share_in_W_REM_N1": 0.004,
+   "scored_N3_minutes": 57.0,
+   "share_of_N3_cued": 0.746,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 636,
+    "no": 542,
+    "alpha": 398,
+    "muscle": 411
+   }
+  },
+  {
+   "source": "SC4151E0-PSG.edf",
+   "start_hours": 6.95,
+   "hours": 6.0,
+   "cues": 244,
+   "stage_at_cue": {
+    "N2": 20,
+    "N3": 224
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.918,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 59.0,
+   "share_of_N3_cued": 0.839,
+   "threshold": 0.7,
+   "pauses": {
+    "eye": 695,
+    "no": 124,
+    "muscle": 1375
+   }
+  },
+  {
+   "source": "SC4161E0-PSG.edf",
+   "start_hours": 5.691666666666666,
+   "hours": 6.0,
+   "cues": 220,
+   "stage_at_cue": {
+    "N2": 14,
+    "N3": 206
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.936,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 81.0,
+   "share_of_N3_cued": 0.586,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 194,
+    "no": 66,
+    "alpha": 38,
+    "muscle": 1032
+   }
+  },
+  {
+   "source": "SC4171E0-PSG.edf",
+   "start_hours": 7.558333333333334,
+   "hours": 6.0,
+   "cues": 287,
+   "stage_at_cue": {
+    "N2": 36,
+    "N3": 251
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.875,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 103.5,
+   "share_of_N3_cued": 0.527,
+   "threshold": 0.85,
+   "pauses": {
+    "alpha": 9,
+    "eye": 105,
+    "no": 149,
+    "muscle": 871
+   }
+  },
+  {
+   "source": "SC4181E0-PSG.edf",
+   "start_hours": 6.966666666666667,
+   "hours": 6.0,
+   "cues": 331,
+   "stage_at_cue": {
+    "N3": 331
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 1.0,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 136.5,
+   "share_of_N3_cued": 0.538,
+   "threshold": 0.85,
+   "pauses": {
+    "eye": 313,
+    "alpha": 139,
+    "muscle": 1518,
+    "no": 242
+   }
+  },
+  {
+   "source": "SC4191E0-PSG.edf",
+   "start_hours": 9.283333333333333,
+   "hours": 6.0,
+   "cues": 250,
+   "stage_at_cue": {
+    "N2": 27,
+    "N3": 223
+   },
+   "share_in_N2_N3": 1.0,
+   "share_in_N3": 0.892,
+   "share_in_W_REM_N1": 0.0,
+   "scored_N3_minutes": 55.0,
+   "share_of_N3_cued": 0.864,
+   "threshold": 0.85,
+   "pauses": {
+    "no": 362,
+    "eye": 559,
+    "alpha": 163,
+    "muscle": 1245
+   }
+  }
+ ]
+}

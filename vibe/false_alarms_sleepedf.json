@@ -1,0 +1,57 @@
+{
+ "nights": 20,
+ "hours_per_night": 8.0,
+ "window_s": 10.0,
+ "thresholds": {
+  "eye_thr": 40.0,
+  "eye_k": 7.0,
+  "eyes_n": 4,
+  "emg_thr": 4.0,
+  "emg_k": 4.0,
+  "muscle_n": 2,
+  "move_mg": 15.0,
+  "calibrated": false
+ },
+ "by_stage": {
+  "W": {
+   "windows": 9570,
+   "yes": 65,
+   "no": 253,
+   "ambiguous": 2,
+   "yes_pct": 0.68,
+   "no_pct": 2.64
+  },
+  "N1": {
+   "windows": 3321,
+   "yes": 3,
+   "no": 119,
+   "ambiguous": 1,
+   "yes_pct": 0.09,
+   "no_pct": 3.58
+  },
+  "N2": {
+   "windows": 25500,
+   "yes": 5,
+   "no": 221,
+   "ambiguous": 0,
+   "yes_pct": 0.02,
+   "no_pct": 0.87
+  },
+  "N3": {
+   "windows": 8832,
+   "yes": 1,
+   "no": 86,
+   "ambiguous": 0,
+   "yes_pct": 0.01,
+   "no_pct": 0.97
+  },
+  "REM": {
+   "windows": 10314,
+   "yes": 81,
+   "no": 107,
+   "ambiguous": 2,
+   "yes_pct": 0.79,
+   "no_pct": 1.04
+  }
+ }
+}

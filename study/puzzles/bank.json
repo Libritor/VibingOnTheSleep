@@ -1,0 +1,4037 @@
+{
+"version": 1,
+"seed": 2026,
+"counts": {
+"arith": 220,
+"resistor": 120,
+"anagram": 111
+},
+"puzzles": [
+{
+"id": "A001",
+"family": "arith",
+"numbers": [
+2,
+5,
+12,
+12
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A002",
+"family": "arith",
+"numbers": [
+2,
+2,
+7,
+12
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A003",
+"family": "arith",
+"numbers": [
+1,
+8,
+12,
+12
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A004",
+"family": "arith",
+"numbers": [
+5,
+7,
+10,
+11
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A005",
+"family": "arith",
+"numbers": [
+9,
+11,
+12,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A006",
+"family": "arith",
+"numbers": [
+3,
+4,
+4,
+8
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A007",
+"family": "arith",
+"numbers": [
+1,
+5,
+7,
+8
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A008",
+"family": "arith",
+"numbers": [
+2,
+5,
+11,
+11
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A009",
+"family": "arith",
+"numbers": [
+2,
+8,
+10,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A010",
+"family": "arith",
+"numbers": [
+2,
+4,
+10,
+10
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A011",
+"family": "arith",
+"numbers": [
+2,
+4,
+7,
+8
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A012",
+"family": "arith",
+"numbers": [
+5,
+6,
+13,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A013",
+"family": "arith",
+"numbers": [
+5,
+5,
+5,
+11
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A014",
+"family": "arith",
+"numbers": [
+2,
+3,
+10,
+10
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A015",
+"family": "arith",
+"numbers": [
+1,
+4,
+9,
+10
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A016",
+"family": "arith",
+"numbers": [
+5,
+6,
+12,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A017",
+"family": "arith",
+"numbers": [
+10,
+11,
+12,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A018",
+"family": "arith",
+"numbers": [
+2,
+10,
+13,
+13
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A019",
+"family": "arith",
+"numbers": [
+3,
+5,
+6,
+7
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A020",
+"family": "arith",
+"numbers": [
+2,
+3,
+13,
+13
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A021",
+"family": "arith",
+"numbers": [
+6,
+8,
+8,
+12
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A022",
+"family": "arith",
+"numbers": [
+4,
+5,
+5,
+9
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A023",
+"family": "arith",
+"numbers": [
+1,
+1,
+8,
+8
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A024",
+"family": "arith",
+"numbers": [
+1,
+5,
+12,
+12
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A025",
+"family": "arith",
+"numbers": [
+4,
+6,
+11,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A026",
+"family": "arith",
+"numbers": [
+1,
+4,
+5,
+9
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A027",
+"family": "arith",
+"numbers": [
+2,
+8,
+11,
+13
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A028",
+"family": "arith",
+"numbers": [
+1,
+5,
+5,
+7
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A029",
+"family": "arith",
+"numbers": [
+1,
+2,
+9,
+9
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A030",
+"family": "arith",
+"numbers": [
+1,
+1,
+3,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A031",
+"family": "arith",
+"numbers": [
+3,
+6,
+10,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A032",
+"family": "arith",
+"numbers": [
+10,
+12,
+13,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A033",
+"family": "arith",
+"numbers": [
+3,
+4,
+7,
+7
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A034",
+"family": "arith",
+"numbers": [
+6,
+6,
+8,
+13
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A035",
+"family": "arith",
+"numbers": [
+1,
+1,
+6,
+9
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A036",
+"family": "arith",
+"numbers": [
+1,
+5,
+5,
+12
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A037",
+"family": "arith",
+"numbers": [
+5,
+5,
+8,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A038",
+"family": "arith",
+"numbers": [
+7,
+8,
+10,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A039",
+"family": "arith",
+"numbers": [
+3,
+3,
+11,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A040",
+"family": "arith",
+"numbers": [
+4,
+8,
+9,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A041",
+"family": "arith",
+"numbers": [
+1,
+3,
+3,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A042",
+"family": "arith",
+"numbers": [
+4,
+8,
+10,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A043",
+"family": "arith",
+"numbers": [
+3,
+3,
+11,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A044",
+"family": "arith",
+"numbers": [
+3,
+3,
+7,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A045",
+"family": "arith",
+"numbers": [
+1,
+5,
+9,
+12
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A046",
+"family": "arith",
+"numbers": [
+2,
+3,
+5,
+9
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A047",
+"family": "arith",
+"numbers": [
+2,
+9,
+9,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A048",
+"family": "arith",
+"numbers": [
+1,
+4,
+5,
+6
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A049",
+"family": "arith",
+"numbers": [
+4,
+4,
+7,
+9
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A050",
+"family": "arith",
+"numbers": [
+3,
+8,
+10,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A051",
+"family": "arith",
+"numbers": [
+2,
+2,
+2,
+13
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A052",
+"family": "arith",
+"numbers": [
+4,
+5,
+7,
+8
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A053",
+"family": "arith",
+"numbers": [
+6,
+8,
+10,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A054",
+"family": "arith",
+"numbers": [
+2,
+7,
+9,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A055",
+"family": "arith",
+"numbers": [
+3,
+6,
+8,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A056",
+"family": "arith",
+"numbers": [
+2,
+4,
+8,
+8
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A057",
+"family": "arith",
+"numbers": [
+6,
+12,
+12,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A058",
+"family": "arith",
+"numbers": [
+3,
+3,
+13,
+13
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A059",
+"family": "arith",
+"numbers": [
+2,
+8,
+8,
+13
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A060",
+"family": "arith",
+"numbers": [
+2,
+7,
+12,
+12
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A061",
+"family": "arith",
+"numbers": [
+4,
+6,
+6,
+7
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A062",
+"family": "arith",
+"numbers": [
+2,
+7,
+7,
+9
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A063",
+"family": "arith",
+"numbers": [
+5,
+5,
+8,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A064",
+"family": "arith",
+"numbers": [
+5,
+7,
+10,
+12
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A065",
+"family": "arith",
+"numbers": [
+4,
+5,
+6,
+8
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A066",
+"family": "arith",
+"numbers": [
+1,
+2,
+5,
+5
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A067",
+"family": "arith",
+"numbers": [
+1,
+3,
+10,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A068",
+"family": "arith",
+"numbers": [
+2,
+5,
+5,
+10
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A069",
+"family": "arith",
+"numbers": [
+3,
+4,
+10,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A070",
+"family": "arith",
+"numbers": [
+2,
+3,
+5,
+12
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A071",
+"family": "arith",
+"numbers": [
+7,
+7,
+7,
+13
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A072",
+"family": "arith",
+"numbers": [
+3,
+6,
+11,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A073",
+"family": "arith",
+"numbers": [
+4,
+5,
+5,
+10
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A074",
+"family": "arith",
+"numbers": [
+1,
+4,
+4,
+13
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A075",
+"family": "arith",
+"numbers": [
+1,
+1,
+4,
+10
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A076",
+"family": "arith",
+"numbers": [
+1,
+6,
+8,
+9
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A077",
+"family": "arith",
+"numbers": [
+1,
+1,
+10,
+13
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A078",
+"family": "arith",
+"numbers": [
+3,
+6,
+8,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A079",
+"family": "arith",
+"numbers": [
+2,
+3,
+6,
+9
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A080",
+"family": "arith",
+"numbers": [
+3,
+7,
+8,
+8
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A081",
+"family": "arith",
+"numbers": [
+1,
+5,
+5,
+5
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A082",
+"family": "arith",
+"numbers": [
+3,
+3,
+7,
+7
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A083",
+"family": "arith",
+"numbers": [
+2,
+8,
+8,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A084",
+"family": "arith",
+"numbers": [
+1,
+3,
+8,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A085",
+"family": "arith",
+"numbers": [
+3,
+3,
+11,
+11
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A086",
+"family": "arith",
+"numbers": [
+4,
+6,
+8,
+8
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A087",
+"family": "arith",
+"numbers": [
+4,
+7,
+7,
+11
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A088",
+"family": "arith",
+"numbers": [
+2,
+9,
+9,
+11
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A089",
+"family": "arith",
+"numbers": [
+3,
+9,
+13,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A090",
+"family": "arith",
+"numbers": [
+2,
+7,
+11,
+11
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A091",
+"family": "arith",
+"numbers": [
+2,
+3,
+8,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A092",
+"family": "arith",
+"numbers": [
+2,
+4,
+8,
+11
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A093",
+"family": "arith",
+"numbers": [
+2,
+7,
+9,
+9
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A094",
+"family": "arith",
+"numbers": [
+1,
+8,
+9,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A095",
+"family": "arith",
+"numbers": [
+5,
+9,
+11,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A096",
+"family": "arith",
+"numbers": [
+5,
+5,
+9,
+9
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A097",
+"family": "arith",
+"numbers": [
+1,
+3,
+12,
+13
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A098",
+"family": "arith",
+"numbers": [
+5,
+5,
+6,
+12
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A099",
+"family": "arith",
+"numbers": [
+1,
+3,
+11,
+12
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A100",
+"family": "arith",
+"numbers": [
+1,
+3,
+4,
+6
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A101",
+"family": "arith",
+"numbers": [
+7,
+10,
+10,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A102",
+"family": "arith",
+"numbers": [
+5,
+7,
+9,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A103",
+"family": "arith",
+"numbers": [
+4,
+10,
+12,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A104",
+"family": "arith",
+"numbers": [
+3,
+3,
+7,
+8
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A105",
+"family": "arith",
+"numbers": [
+1,
+6,
+8,
+9
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A106",
+"family": "arith",
+"numbers": [
+2,
+3,
+9,
+9
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A107",
+"family": "arith",
+"numbers": [
+4,
+4,
+4,
+13
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A108",
+"family": "arith",
+"numbers": [
+6,
+6,
+7,
+13
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A109",
+"family": "arith",
+"numbers": [
+2,
+3,
+3,
+11
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A110",
+"family": "arith",
+"numbers": [
+7,
+9,
+9,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A111",
+"family": "arith",
+"numbers": [
+1,
+5,
+6,
+8
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A112",
+"family": "arith",
+"numbers": [
+1,
+3,
+6,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A113",
+"family": "arith",
+"numbers": [
+1,
+4,
+4,
+7
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A114",
+"family": "arith",
+"numbers": [
+2,
+4,
+10,
+12
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A115",
+"family": "arith",
+"numbers": [
+3,
+7,
+12,
+12
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A116",
+"family": "arith",
+"numbers": [
+5,
+10,
+10,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A117",
+"family": "arith",
+"numbers": [
+1,
+5,
+7,
+7
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A118",
+"family": "arith",
+"numbers": [
+2,
+5,
+6,
+6
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A119",
+"family": "arith",
+"numbers": [
+3,
+5,
+12,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A120",
+"family": "arith",
+"numbers": [
+7,
+8,
+9,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A121",
+"family": "arith",
+"numbers": [
+2,
+8,
+11,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A122",
+"family": "arith",
+"numbers": [
+8,
+9,
+10,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A123",
+"family": "arith",
+"numbers": [
+6,
+6,
+9,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A124",
+"family": "arith",
+"numbers": [
+1,
+2,
+11,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A125",
+"family": "arith",
+"numbers": [
+5,
+5,
+7,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A126",
+"family": "arith",
+"numbers": [
+3,
+7,
+7,
+8
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A127",
+"family": "arith",
+"numbers": [
+2,
+3,
+9,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A128",
+"family": "arith",
+"numbers": [
+3,
+7,
+8,
+9
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A129",
+"family": "arith",
+"numbers": [
+2,
+3,
+5,
+12
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A130",
+"family": "arith",
+"numbers": [
+1,
+1,
+2,
+10
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A131",
+"family": "arith",
+"numbers": [
+5,
+5,
+7,
+11
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A132",
+"family": "arith",
+"numbers": [
+4,
+4,
+7,
+7
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A133",
+"family": "arith",
+"numbers": [
+1,
+7,
+8,
+9
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A134",
+"family": "arith",
+"numbers": [
+2,
+5,
+7,
+8
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A135",
+"family": "arith",
+"numbers": [
+7,
+9,
+10,
+12
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A136",
+"family": "arith",
+"numbers": [
+8,
+10,
+12,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A137",
+"family": "arith",
+"numbers": [
+1,
+4,
+7,
+7
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A138",
+"family": "arith",
+"numbers": [
+4,
+6,
+10,
+12
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A139",
+"family": "arith",
+"numbers": [
+3,
+4,
+4,
+4
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A140",
+"family": "arith",
+"numbers": [
+6,
+7,
+11,
+12
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A141",
+"family": "arith",
+"numbers": [
+4,
+5,
+6,
+6
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A142",
+"family": "arith",
+"numbers": [
+4,
+5,
+5,
+5
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A143",
+"family": "arith",
+"numbers": [
+2,
+3,
+5,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A144",
+"family": "arith",
+"numbers": [
+2,
+5,
+7,
+8
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A145",
+"family": "arith",
+"numbers": [
+6,
+6,
+6,
+7
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A146",
+"family": "arith",
+"numbers": [
+1,
+2,
+3,
+11
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A147",
+"family": "arith",
+"numbers": [
+7,
+8,
+10,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A148",
+"family": "arith",
+"numbers": [
+2,
+3,
+7,
+7
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A149",
+"family": "arith",
+"numbers": [
+2,
+9,
+10,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A150",
+"family": "arith",
+"numbers": [
+5,
+5,
+5,
+8
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A151",
+"family": "arith",
+"numbers": [
+2,
+5,
+5,
+7
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A152",
+"family": "arith",
+"numbers": [
+2,
+7,
+7,
+10
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A153",
+"family": "arith",
+"numbers": [
+1,
+4,
+13,
+13
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A154",
+"family": "arith",
+"numbers": [
+2,
+2,
+3,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A155",
+"family": "arith",
+"numbers": [
+2,
+2,
+8,
+13
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A156",
+"family": "arith",
+"numbers": [
+1,
+2,
+7,
+8
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A157",
+"family": "arith",
+"numbers": [
+1,
+8,
+8,
+9
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A158",
+"family": "arith",
+"numbers": [
+3,
+8,
+10,
+13
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A159",
+"family": "arith",
+"numbers": [
+3,
+8,
+10,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A160",
+"family": "arith",
+"numbers": [
+3,
+4,
+4,
+5
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A161",
+"family": "arith",
+"numbers": [
+7,
+8,
+9,
+10
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A162",
+"family": "arith",
+"numbers": [
+3,
+4,
+6,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A163",
+"family": "arith",
+"numbers": [
+5,
+5,
+6,
+7
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A164",
+"family": "arith",
+"numbers": [
+3,
+3,
+9,
+10
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A165",
+"family": "arith",
+"numbers": [
+1,
+3,
+7,
+11
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A166",
+"family": "arith",
+"numbers": [
+5,
+6,
+9,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A167",
+"family": "arith",
+"numbers": [
+1,
+4,
+9,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A168",
+"family": "arith",
+"numbers": [
+1,
+5,
+6,
+6
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A169",
+"family": "arith",
+"numbers": [
+3,
+3,
+5,
+8
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A170",
+"family": "arith",
+"numbers": [
+2,
+2,
+9,
+11
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A171",
+"family": "arith",
+"numbers": [
+2,
+8,
+9,
+9
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A172",
+"family": "arith",
+"numbers": [
+3,
+4,
+5,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A173",
+"family": "arith",
+"numbers": [
+5,
+6,
+7,
+10
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A174",
+"family": "arith",
+"numbers": [
+1,
+2,
+7,
+12
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A175",
+"family": "arith",
+"numbers": [
+4,
+7,
+7,
+8
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A176",
+"family": "arith",
+"numbers": [
+1,
+7,
+7,
+10
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A177",
+"family": "arith",
+"numbers": [
+1,
+4,
+7,
+13
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A178",
+"family": "arith",
+"numbers": [
+3,
+3,
+8,
+8
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A179",
+"family": "arith",
+"numbers": [
+2,
+2,
+13,
+13
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A180",
+"family": "arith",
+"numbers": [
+2,
+2,
+11,
+11
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A181",
+"family": "arith",
+"numbers": [
+2,
+8,
+11,
+12
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A182",
+"family": "arith",
+"numbers": [
+2,
+5,
+6,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A183",
+"family": "arith",
+"numbers": [
+1,
+6,
+6,
+8
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A184",
+"family": "arith",
+"numbers": [
+2,
+10,
+11,
+11
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A185",
+"family": "arith",
+"numbers": [
+5,
+7,
+7,
+11
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A186",
+"family": "arith",
+"numbers": [
+7,
+8,
+10,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A187",
+"family": "arith",
+"numbers": [
+2,
+4,
+10,
+10
+],
+"target": 24,
+"tier": "fraction"
+},
+{
+"id": "A188",
+"family": "arith",
+"numbers": [
+2,
+3,
+4,
+4
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A189",
+"family": "arith",
+"numbers": [
+3,
+3,
+10,
+12
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A190",
+"family": "arith",
+"numbers": [
+1,
+7,
+10,
+10
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A191",
+"family": "arith",
+"numbers": [
+3,
+11,
+13,
+13
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A192",
+"family": "arith",
+"numbers": [
+2,
+3,
+3,
+5
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A193",
+"family": "arith",
+"numbers": [
+2,
+2,
+10,
+13
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A194",
+"family": "arith",
+"numbers": [
+1,
+6,
+8,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A195",
+"family": "arith",
+"numbers": [
+1,
+3,
+3,
+6
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A196",
+"family": "arith",
+"numbers": [
+2,
+7,
+7,
+12
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A197",
+"family": "arith",
+"numbers": [
+3,
+3,
+6,
+11
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A198",
+"family": "arith",
+"numbers": [
+2,
+4,
+5,
+5
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A199",
+"family": "arith",
+"numbers": [
+3,
+5,
+9,
+10
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A200",
+"family": "arith",
+"numbers": [
+1,
+5,
+9,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A201",
+"family": "arith",
+"numbers": [
+2,
+3,
+8,
+13
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A202",
+"family": "arith",
+"numbers": [
+2,
+11,
+11,
+12
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A203",
+"family": "arith",
+"numbers": [
+1,
+4,
+4,
+4
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A204",
+"family": "arith",
+"numbers": [
+2,
+3,
+5,
+10
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A205",
+"family": "arith",
+"numbers": [
+2,
+2,
+9,
+13
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A206",
+"family": "arith",
+"numbers": [
+1,
+2,
+9,
+12
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A207",
+"family": "arith",
+"numbers": [
+2,
+4,
+9,
+12
+],
+"target": 17,
+"tier": "rare"
+},
+{
+"id": "A208",
+"family": "arith",
+"numbers": [
+5,
+8,
+8,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "A209",
+"family": "arith",
+"numbers": [
+2,
+2,
+9,
+10
+],
+"target": 29,
+"tier": "fraction"
+},
+{
+"id": "A210",
+"family": "arith",
+"numbers": [
+1,
+8,
+9,
+9
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A211",
+"family": "arith",
+"numbers": [
+1,
+2,
+8,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A212",
+"family": "arith",
+"numbers": [
+1,
+6,
+7,
+9
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A213",
+"family": "arith",
+"numbers": [
+8,
+9,
+12,
+12
+],
+"target": 36,
+"tier": "rare"
+},
+{
+"id": "A214",
+"family": "arith",
+"numbers": [
+2,
+4,
+11,
+12
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A215",
+"family": "arith",
+"numbers": [
+1,
+6,
+6,
+11
+],
+"target": 17,
+"tier": "fraction"
+},
+{
+"id": "A216",
+"family": "arith",
+"numbers": [
+1,
+5,
+7,
+9
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A217",
+"family": "arith",
+"numbers": [
+3,
+4,
+4,
+12
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A218",
+"family": "arith",
+"numbers": [
+3,
+6,
+10,
+10
+],
+"target": 24,
+"tier": "rare"
+},
+{
+"id": "A219",
+"family": "arith",
+"numbers": [
+3,
+8,
+9,
+13
+],
+"target": 29,
+"tier": "rare"
+},
+{
+"id": "A220",
+"family": "arith",
+"numbers": [
+3,
+6,
+10,
+10
+],
+"target": 36,
+"tier": "fraction"
+},
+{
+"id": "R001",
+"family": "resistor",
+"target": "11/9",
+"count": 7
+},
+{
+"id": "R002",
+"family": "resistor",
+"target": "18/7",
+"count": 7
+},
+{
+"id": "R003",
+"family": "resistor",
+"target": "19/14",
+"count": 7
+},
+{
+"id": "R004",
+"family": "resistor",
+"target": "21/8",
+"count": 7
+},
+{
+"id": "R005",
+"family": "resistor",
+"target": "19/12",
+"count": 7
+},
+{
+"id": "R006",
+"family": "resistor",
+"target": "5/13",
+"count": 6
+},
+{
+"id": "R007",
+"family": "resistor",
+"target": "8/9",
+"count": 7
+},
+{
+"id": "R008",
+"family": "resistor",
+"target": "6/17",
+"count": 7
+},
+{
+"id": "R009",
+"family": "resistor",
+"target": "3/8",
+"count": 5
+},
+{
+"id": "R010",
+"family": "resistor",
+"target": "12/17",
+"count": 7
+},
+{
+"id": "R011",
+"family": "resistor",
+"target": "13/4",
+"count": 7
+},
+{
+"id": "R012",
+"family": "resistor",
+"target": "11/15",
+"count": 7
+},
+{
+"id": "R013",
+"family": "resistor",
+"target": "10/3",
+"count": 6
+},
+{
+"id": "R014",
+"family": "resistor",
+"target": "19/7",
+"count": 7
+},
+{
+"id": "R015",
+"family": "resistor",
+"target": "17/12",
+"count": 7
+},
+{
+"id": "R016",
+"family": "resistor",
+"target": "9/5",
+"count": 6
+},
+{
+"id": "R017",
+"family": "resistor",
+"target": "7/11",
+"count": 6
+},
+{
+"id": "R018",
+"family": "resistor",
+"target": "13/19",
+"count": 7
+},
+{
+"id": "R019",
+"family": "resistor",
+"target": "4/13",
+"count": 7
+},
+{
+"id": "R020",
+"family": "resistor",
+"target": "7/18",
+"count": 7
+},
+{
+"id": "R021",
+"family": "resistor",
+"target": "7/3",
+"count": 5
+},
+{
+"id": "R022",
+"family": "resistor",
+"target": "13/10",
+"count": 7
+},
+{
+"id": "R023",
+"family": "resistor",
+"target": "12/5",
+"count": 6
+},
+{
+"id": "R024",
+"family": "resistor",
+"target": "6/13",
+"count": 6
+},
+{
+"id": "R025",
+"family": "resistor",
+"target": "9/14",
+"count": 7
+},
+{
+"id": "R026",
+"family": "resistor",
+"target": "19/8",
+"count": 7
+},
+{
+"id": "R027",
+"family": "resistor",
+"target": "17/5",
+"count": 7
+},
+{
+"id": "R028",
+"family": "resistor",
+"target": "8/13",
+"count": 6
+},
+{
+"id": "R029",
+"family": "resistor",
+"target": "19/11",
+"count": 7
+},
+{
+"id": "R030",
+"family": "resistor",
+"target": "14/11",
+"count": 7
+},
+{
+"id": "R031",
+"family": "resistor",
+"target": "7/12",
+"count": 6
+},
+{
+"id": "R032",
+"family": "resistor",
+"target": "5/9",
+"count": 6
+},
+{
+"id": "R033",
+"family": "resistor",
+"target": "9/4",
+"count": 6
+},
+{
+"id": "R034",
+"family": "resistor",
+"target": "11/7",
+"count": 6
+},
+{
+"id": "R035",
+"family": "resistor",
+"target": "5/6",
+"count": 5
+},
+{
+"id": "R036",
+"family": "resistor",
+"target": "7/20",
+"count": 7
+},
+{
+"id": "R037",
+"family": "resistor",
+"target": "7/17",
+"count": 7
+},
+{
+"id": "R038",
+"family": "resistor",
+"target": "13/9",
+"count": 7
+},
+{
+"id": "R039",
+"family": "resistor",
+"target": "5/7",
+"count": 5
+},
+{
+"id": "R040",
+"family": "resistor",
+"target": "12/11",
+"count": 7
+},
+{
+"id": "R041",
+"family": "resistor",
+"target": "11/19",
+"count": 7
+},
+{
+"id": "R042",
+"family": "resistor",
+"target": "13/14",
+"count": 7
+},
+{
+"id": "R043",
+"family": "resistor",
+"target": "4/9",
+"count": 6
+},
+{
+"id": "R044",
+"family": "resistor",
+"target": "11/21",
+"count": 7
+},
+{
+"id": "R045",
+"family": "resistor",
+"target": "19/9",
+"count": 7
+},
+{
+"id": "R046",
+"family": "resistor",
+"target": "16/11",
+"count": 7
+},
+{
+"id": "R047",
+"family": "resistor",
+"target": "13/20",
+"count": 7
+},
+{
+"id": "R048",
+"family": "resistor",
+"target": "7/10",
+"count": 6
+},
+{
+"id": "R049",
+"family": "resistor",
+"target": "18/11",
+"count": 7
+},
+{
+"id": "R050",
+"family": "resistor",
+"target": "8/5",
+"count": 5
+},
+{
+"id": "R051",
+"family": "resistor",
+"target": "11/10",
+"count": 6
+},
+{
+"id": "R052",
+"family": "resistor",
+"target": "12/19",
+"count": 7
+},
+{
+"id": "R053",
+"family": "resistor",
+"target": "4/11",
+"count": 6
+},
+{
+"id": "R054",
+"family": "resistor",
+"target": "9/7",
+"count": 6
+},
+{
+"id": "R055",
+"family": "resistor",
+"target": "16/9",
+"count": 7
+},
+{
+"id": "R056",
+"family": "resistor",
+"target": "17/10",
+"count": 7
+},
+{
+"id": "R057",
+"family": "resistor",
+"target": "13/7",
+"count": 6
+},
+{
+"id": "R058",
+"family": "resistor",
+"target": "11/5",
+"count": 6
+},
+{
+"id": "R059",
+"family": "resistor",
+"target": "10/11",
+"count": 6
+},
+{
+"id": "R060",
+"family": "resistor",
+"target": "8/11",
+"count": 6
+},
+{
+"id": "R061",
+"family": "resistor",
+"target": "7/16",
+"count": 7
+},
+{
+"id": "R062",
+"family": "resistor",
+"target": "11/3",
+"count": 6
+},
+{
+"id": "R063",
+"family": "resistor",
+"target": "4/7",
+"count": 5
+},
+{
+"id": "R064",
+"family": "resistor",
+"target": "14/13",
+"count": 7
+},
+{
+"id": "R065",
+"family": "resistor",
+"target": "18/13",
+"count": 7
+},
+{
+"id": "R066",
+"family": "resistor",
+"target": "14/17",
+"count": 7
+},
+{
+"id": "R067",
+"family": "resistor",
+"target": "8/3",
+"count": 5
+},
+{
+"id": "R068",
+"family": "resistor",
+"target": "19/10",
+"count": 7
+},
+{
+"id": "R069",
+"family": "resistor",
+"target": "16/7",
+"count": 7
+},
+{
+"id": "R070",
+"family": "resistor",
+"target": "20/13",
+"count": 7
+},
+{
+"id": "R071",
+"family": "resistor",
+"target": "9/13",
+"count": 7
+},
+{
+"id": "R072",
+"family": "resistor",
+"target": "16/5",
+"count": 7
+},
+{
+"id": "R073",
+"family": "resistor",
+"target": "5/4",
+"count": 5
+},
+{
+"id": "R074",
+"family": "resistor",
+"target": "11/8",
+"count": 6
+},
+{
+"id": "R075",
+"family": "resistor",
+"target": "12/7",
+"count": 6
+},
+{
+"id": "R076",
+"family": "resistor",
+"target": "3/11",
+"count": 6
+},
+{
+"id": "R077",
+"family": "resistor",
+"target": "21/13",
+"count": 7
+},
+{
+"id": "R078",
+"family": "resistor",
+"target": "5/18",
+"count": 7
+},
+{
+"id": "R079",
+"family": "resistor",
+"target": "10/9",
+"count": 6
+},
+{
+"id": "R080",
+"family": "resistor",
+"target": "11/6",
+"count": 6
+},
+{
+"id": "R081",
+"family": "resistor",
+"target": "9/10",
+"count": 6
+},
+{
+"id": "R082",
+"family": "resistor",
+"target": "17/7",
+"count": 7
+},
+{
+"id": "R083",
+"family": "resistor",
+"target": "2/7",
+"count": 5
+},
+{
+"id": "R084",
+"family": "resistor",
+"target": "14/15",
+"count": 7
+},
+{
+"id": "R085",
+"family": "resistor",
+"target": "14/5",
+"count": 7
+},
+{
+"id": "R086",
+"family": "resistor",
+"target": "13/12",
+"count": 7
+},
+{
+"id": "R087",
+"family": "resistor",
+"target": "21/11",
+"count": 7
+},
+{
+"id": "R088",
+"family": "resistor",
+"target": "8/7",
+"count": 7
+},
+{
+"id": "R089",
+"family": "resistor",
+"target": "5/12",
+"count": 6
+},
+{
+"id": "R090",
+"family": "resistor",
+"target": "5/8",
+"count": 5
+},
+{
+"id": "R091",
+"family": "resistor",
+"target": "13/21",
+"count": 7
+},
+{
+"id": "R092",
+"family": "resistor",
+"target": "10/17",
+"count": 7
+},
+{
+"id": "R093",
+"family": "resistor",
+"target": "3/10",
+"count": 6
+},
+{
+"id": "R094",
+"family": "resistor",
+"target": "10/19",
+"count": 7
+},
+{
+"id": "R095",
+"family": "resistor",
+"target": "7/13",
+"count": 6
+},
+{
+"id": "R096",
+"family": "resistor",
+"target": "7/2",
+"count": 5
+},
+{
+"id": "R097",
+"family": "resistor",
+"target": "14/9",
+"count": 7
+},
+{
+"id": "R098",
+"family": "resistor",
+"target": "10/7",
+"count": 6
+},
+{
+"id": "R099",
+"family": "resistor",
+"target": "10/21",
+"count": 7
+},
+{
+"id": "R100",
+"family": "resistor",
+"target": "13/5",
+"count": 6
+},
+{
+"id": "R101",
+"family": "resistor",
+"target": "7/5",
+"count": 5
+},
+{
+"id": "R102",
+"family": "resistor",
+"target": "9/16",
+"count": 7
+},
+{
+"id": "R103",
+"family": "resistor",
+"target": "6/11",
+"count": 6
+},
+{
+"id": "R104",
+"family": "resistor",
+"target": "13/6",
+"count": 6
+},
+{
+"id": "R105",
+"family": "resistor",
+"target": "13/8",
+"count": 6
+},
+{
+"id": "R106",
+"family": "resistor",
+"target": "20/7",
+"count": 7
+},
+{
+"id": "R107",
+"family": "resistor",
+"target": "14/19",
+"count": 7
+},
+{
+"id": "R108",
+"family": "resistor",
+"target": "15/14",
+"count": 7
+},
+{
+"id": "R109",
+"family": "resistor",
+"target": "19/15",
+"count": 7
+},
+{
+"id": "R110",
+"family": "resistor",
+"target": "6/7",
+"count": 5
+},
+{
+"id": "R111",
+"family": "resistor",
+"target": "16/15",
+"count": 7
+},
+{
+"id": "R112",
+"family": "resistor",
+"target": "6/5",
+"count": 5
+},
+{
+"id": "R113",
+"family": "resistor",
+"target": "3/7",
+"count": 5
+},
+{
+"id": "R114",
+"family": "resistor",
+"target": "7/6",
+"count": 5
+},
+{
+"id": "R115",
+"family": "resistor",
+"target": "7/4",
+"count": 5
+},
+{
+"id": "R116",
+"family": "resistor",
+"target": "5/11",
+"count": 6
+},
+{
+"id": "R117",
+"family": "resistor",
+"target": "5/14",
+"count": 7
+},
+{
+"id": "R118",
+"family": "resistor",
+"target": "4/5",
+"count": 5
+},
+{
+"id": "R119",
+"family": "resistor",
+"target": "11/4",
+"count": 6
+},
+{
+"id": "R120",
+"family": "resistor",
+"target": "7/9",
+"count": 6
+},
+{
+"id": "W001",
+"family": "anagram",
+"letters": "TUECNHERSOC",
+"answer_sha256": "7d4355e97cc8ec06cd8c3da409b066ab3ae65d7558a87c4f4281aeaa3e200d11"
+},
+{
+"id": "W002",
+"family": "anagram",
+"letters": "GOTRRTIAEN",
+"answer_sha256": "6a1ec4e92d1d103ae3960054f378312f66983816da9a0605026617a7111f5391"
+},
+{
+"id": "W003",
+"family": "anagram",
+"letters": "OCCIOERSMP",
+"answer_sha256": "fedfb0091a3c5f1920452f0c18b82930e2678ef68fb3f1162c332b09b8052428"
+},
+{
+"id": "W004",
+"family": "anagram",
+"letters": "RTNPETIUR",
+"answer_sha256": "1b73d8feeff4b344fc08ef2ea1c321201937d2c737bd11cf6f6ed9d856a0cce4"
+},
+{
+"id": "W005",
+"family": "anagram",
+"letters": "HLAIAENCMC",
+"answer_sha256": "87115053102b522189f7f4e2870cef26de6b6922851ab77af7e0961cbbcbc305"
+},
+{
+"id": "W006",
+"family": "anagram",
+"letters": "PKCRTOES",
+"answer_sha256": "855889f7a8048c815966f1b2cf2144dce892e5923c86e54551cf2a3dbdc5bebe"
+},
+{
+"id": "W007",
+"family": "anagram",
+"letters": "NTRAOTUETA",
+"answer_sha256": "e2805fa9b84a648661f3dcecad10d8188f1a1b035c3e30722e3d4cc34c7977a5"
+},
+{
+"id": "W008",
+"family": "anagram",
+"letters": "AOEODNNNSC",
+"answer_sha256": "2b8aae008a5be3eaf4ad70c541b1e610d6e7bf7e5838739c50d9a58b7c30a508"
+},
+{
+"id": "W009",
+"family": "anagram",
+"letters": "FLAOFCDS",
+"answer_sha256": "3b84b65d71a8e7d76a007f5cc2a3c201a429de835a367f6b202007a6b4a30b26"
+},
+{
+"id": "W010",
+"family": "anagram",
+"letters": "GEMNATSIM",
+"answer_sha256": "1494120a02d0de25cf42f07e5dfcd0175709e9f5ecd1c81b0523ff29fdaefda1"
+},
+{
+"id": "W011",
+"family": "anagram",
+"letters": "AYUCILRHD",
+"answer_sha256": "8ec4c27223059f558ed4258f99b381a81c6ec398f7e5b9521b196e3283c2111f"
+},
+{
+"id": "W012",
+"family": "anagram",
+"letters": "INRCASEETS",
+"answer_sha256": "9961002792bb027009aa515e6fb12b772e30b8698d4fbb96988a00e61ff18d4b"
+},
+{
+"id": "W013",
+"family": "anagram",
+"letters": "OSPSRMOERC",
+"answer_sha256": "748ebc86a85f9479c2abe72e56582c09260b0cb93330ca6983032e854eb23b1f"
+},
+{
+"id": "W014",
+"family": "anagram",
+"letters": "PCUEMRTS",
+"answer_sha256": "7ac3ab1d131d652ebbaf6ab573b70f5bb758e2836aa1bd4b325eb8fe8b81bbce"
+},
+{
+"id": "W015",
+"family": "anagram",
+"letters": "LBAERWAE",
+"answer_sha256": "2cb89c83254fd1487ab4ad6861e64633656017a99a506862ec005a96af251981"
+},
+{
+"id": "W016",
+"family": "anagram",
+"letters": "ENRATCCAE",
+"answer_sha256": "58651b77cbade4775df4a4a48bbf993f9ff84905bc4dcd3d75b276272a0ae36e"
+},
+{
+"id": "W017",
+"family": "anagram",
+"letters": "EMMITLRTUE",
+"answer_sha256": "95046f875d8743b9b63625d5c5d4600c5dbec89e47b7f36224d8c487126ce02f"
+},
+{
+"id": "W018",
+"family": "anagram",
+"letters": "AREPSGTOMCR",
+"answer_sha256": "ca6cb2036f1af521cf9d9aab21c329d88c9a26d560e9cbd26734a43708ac057b"
+},
+{
+"id": "W019",
+"family": "anagram",
+"letters": "CSRNNOEED",
+"answer_sha256": "8c3b1fe6663d4861703f3b848a3802d5bfbd9618d591e0d540f184f4552fea89"
+},
+{
+"id": "W020",
+"family": "anagram",
+"letters": "YFEUCNQER",
+"answer_sha256": "aeb71db6750f80ca15d2f4d4fe88325eb5397ce706241dc68bcde145456b9e5d"
+},
+{
+"id": "W021",
+"family": "anagram",
+"letters": "NBEDDHAA",
+"answer_sha256": "36e116c5018f72c8ad2b135a777bb04a48a98b8309ab159159a5e2e578b64915"
+},
+{
+"id": "W022",
+"family": "anagram",
+"letters": "PNMEIACDE",
+"answer_sha256": "b9cf3d5ccbdb254cebf62be6cf23cbe5bff17a21a035c2b365ebe68c2e0244e4"
+},
+{
+"id": "W023",
+"family": "anagram",
+"letters": "TAROBNUF",
+"answer_sha256": "fdd0ee498e66dcfac38b0dcbe43f1878975d44b9dc48062c8d3860d686e5a67d"
+},
+{
+"id": "W024",
+"family": "anagram",
+"letters": "RRIGSEET",
+"answer_sha256": "97e2285c00ad744c9d23fab34516bd43944798caf6946827b3ada50a6f2a01d7"
+},
+{
+"id": "W025",
+"family": "anagram",
+"letters": "MRZETHAGE",
+"answer_sha256": "f246f6194d4ccd7894407a30c0ef7c8673627d493add9c60c2b5ba1e732928f8"
+},
+{
+"id": "W026",
+"family": "anagram",
+"letters": "RBAIUNMSE",
+"answer_sha256": "90374787845b425ac84c47ae93d9858b4db78aae6f66e8fdec5a474c40e850bb"
+},
+{
+"id": "W027",
+"family": "anagram",
+"letters": "ASTCHMFA",
+"answer_sha256": "72833beee43c333c698af1267acd43c56f9d196cdf71bf0aa06c08e444139e0d"
+},
+{
+"id": "W028",
+"family": "anagram",
+"letters": "BEEAOTMRR",
+"answer_sha256": "972e91069b70c2ea34a11c8b53ce46d127471378caebd07f695710661df315aa"
+},
+{
+"id": "W029",
+"family": "anagram",
+"letters": "AEODRKBY",
+"answer_sha256": "e6938b460ee6797db683c5a2aa7064389c08a624e37fb0968d2f59b99490d5a3"
+},
+{
+"id": "W030",
+"family": "anagram",
+"letters": "ZUQIRLAEE",
+"answer_sha256": "c6b78c9ed5c95d5379ef9a2fd7c3c0b37d5e32311e22cfc42cffb51afd422c38"
+},
+{
+"id": "W031",
+"family": "anagram",
+"letters": "CRTFEEIRI",
+"answer_sha256": "35ea4968f45a90d3f75ca6948c03e8ceadd3e8dc3b9a746fa11318b83e1433d6"
+},
+{
+"id": "W032",
+"family": "anagram",
+"letters": "WSACTRAHTM",
+"answer_sha256": "36dfc98a7a494619df5e724458a7f68a25c81f3526b6faa73b567d9440fc1a8f"
+},
+{
+"id": "W033",
+"family": "anagram",
+"letters": "PEILMXTLRUE",
+"answer_sha256": "72a17deb61d2dab2d130da6601039ec76caae2baad07da07f978f6d01ff2c66f"
+},
+{
+"id": "W034",
+"family": "anagram",
+"letters": "OELFRVWO",
+"answer_sha256": "80b29d5f33ebfe78ca58d9b9bc5f2ff718640451b1f71258ec15aa976cb1a6b5"
+},
+{
+"id": "W035",
+"family": "anagram",
+"letters": "RETIEVNR",
+"answer_sha256": "eaa202d3444814c3769e05829e1237010325e0c9f3055f09f3411b96bea75b76"
+},
+{
+"id": "W036",
+"family": "anagram",
+"letters": "EOGARTNRE",
+"answer_sha256": "1b01fcf93764b3765a5e190ddfd65eb170500af28c1072de9ed3c8509326ee6d"
+},
+{
+"id": "W037",
+"family": "anagram",
+"letters": "SJCYKIOT",
+"answer_sha256": "f9e87675526333e0b568ecc7ea8c96e81155d5f31f6d828e361997dccdf53d69"
+},
+{
+"id": "W038",
+"family": "anagram",
+"letters": "ROMTTLEVE",
+"answer_sha256": "c3616e63f0b9e52466320ce082e0fb708749a10dd00461072b9031581face711"
+},
+{
+"id": "W039",
+"family": "anagram",
+"letters": "RUERCBOATR",
+"answer_sha256": "29092fe6f3393ca52caa85dc860596a8ad1e63507dd6c053328fa47750a93113"
+},
+{
+"id": "W040",
+"family": "anagram",
+"letters": "SCIOORTB",
+"answer_sha256": "34d1c22124bd6adece54a792fcd45df745c7a096ed7abd0427de0d53955d6e94"
+},
+{
+"id": "W041",
+"family": "anagram",
+"letters": "DSEONLIO",
+"answer_sha256": "20ef9acc753078ea698b22e2372e91b30759175490e379422afd1123a47fdedd"
+},
+{
+"id": "W042",
+"family": "anagram",
+"letters": "TNIASRLUO",
+"answer_sha256": "fe0f17934998c0d9a265f01988b9adb422c1dee11af9f789c7117ad1425d8b07"
+},
+{
+"id": "W043",
+"family": "anagram",
+"letters": "UZRQTNIAE",
+"answer_sha256": "6bfc4364f99bbb82292c9140685e571858a547fbf792b0eae69790b198dafd43"
+},
+{
+"id": "W044",
+"family": "anagram",
+"letters": "ORACNEENS",
+"answer_sha256": "abddacd22a0d83433fbeb9b20489139e8bedebc1a9b789fff807cb685b1f9d60"
+},
+{
+"id": "W045",
+"family": "anagram",
+"letters": "IEIIDGZRT",
+"answer_sha256": "f9e4ce7e7801d2860e97f5e37a1d048f6884138c450d2d796ee4b8e2af446999"
+},
+{
+"id": "W046",
+"family": "anagram",
+"letters": "RLOOOPCT",
+"answer_sha256": "208fa215ca449ad434c8a139384594b8d773b561cabd37b20a56c8b648a4c7cd"
+},
+{
+"id": "W047",
+"family": "anagram",
+"letters": "ICDNUTECNA",
+"answer_sha256": "be932e8f644867908ea8030a9eb87b6eed98e056c2dc96077a7dcedadf54c3dd"
+},
+{
+"id": "W048",
+"family": "anagram",
+"letters": "IEATTLPNO",
+"answer_sha256": "177f098f98a9f3cb9c81f7fdfb5d5fc7396f3e355d6716f1a2907a30fd16b1e1"
+},
+{
+"id": "W049",
+"family": "anagram",
+"letters": "CUTDNROOC",
+"answer_sha256": "c08ff8d3e3525c1da02d67e6de2b44b04da11b1a6e59de9197bf1da4a5bd9723"
+},
+{
+"id": "W050",
+"family": "anagram",
+"letters": "ALTCSLOIRO",
+"answer_sha256": "ff40a106d7a1538f9a46e2090ed568d4d9beda948c0cbf5ec75400bc21fca205"
+},
+{
+"id": "W051",
+"family": "anagram",
+"letters": "YGPCRSEOO",
+"answer_sha256": "4641d5b8c747ae9a2c59f17adbef0eefd37707189f45ed252c2ba1cb388b6bc7"
+},
+{
+"id": "W052",
+"family": "anagram",
+"letters": "SIGOMARPEHS",
+"answer_sha256": "a6405bc06a9c767f16f55308e9b67850e32ca8a4b014d42cd2dfeefd5c7ec5f6"
+},
+{
+"id": "W053",
+"family": "anagram",
+"letters": "LHTORTET",
+"answer_sha256": "1ec151b626cbd1de6609e65b37dbf2cb66ed89af22c7ff0a2237d26b867d51ec"
+},
+{
+"id": "W054",
+"family": "anagram",
+"letters": "WTOLTKAI",
+"answer_sha256": "89e158b02cc9bb2280eff5827230d01ff4ab19d973e45032fd7726ef78aee5e4"
+},
+{
+"id": "W055",
+"family": "anagram",
+"letters": "OTRRGEUAL",
+"answer_sha256": "332ce703dade440ac88112e0573e20990e5b01b1953ce760643232fa18621812"
+},
+{
+"id": "W056",
+"family": "anagram",
+"letters": "AMRRTFESONR",
+"answer_sha256": "f59ae0ef527d0bc29519e54a39022a6668fdd7954ebcf5df2320fc7eff3cf867"
+},
+{
+"id": "W057",
+"family": "anagram",
+"letters": "ROAMOPRCTA",
+"answer_sha256": "fc124c6a7bbef7dbc17cc7cd78054b8b3b011730692fa9e0cf077e0d5a5fe015"
+},
+{
+"id": "W058",
+"family": "anagram",
+"letters": "AGXOREB",
+"answer_sha256": "64c9119cd0d3e51e434cab5ce70ad7bb5ce47f5ad42f2081ada45bb29ce5a131"
+},
+{
+"id": "W059",
+"family": "anagram",
+"letters": "PTEOAOAVRR",
+"answer_sha256": "0b8851b733c65ee926499792fbf4e2c1c67c8a5e3831b59e0f59e33edf951fb8"
+},
+{
+"id": "W060",
+"family": "anagram",
+"letters": "EUNLDMPU",
+"answer_sha256": "cccc5c08d805400119df45b0a023ab8bdacc851dad73b8e52344bf3464daadb7"
+},
+{
+"id": "W061",
+"family": "anagram",
+"letters": "HNIPOEMRCO",
+"answer_sha256": "4df0d85e5cef28cebc3783bfb7e1f087ad2d09b28997819286dda848591754a7"
+},
+{
+"id": "W062",
+"family": "anagram",
+"letters": "ILEPNIEP",
+"answer_sha256": "7114244ac71901eab5ceb9278df0c1076973c34a651affe73a06b87452d02522"
+},
+{
+"id": "W063",
+"family": "anagram",
+"letters": "PNESSOUNIS",
+"answer_sha256": "93671c2eb8df8ee0fbffa6f73a150fb01a1cbaa63a4865c506d595dad62ae468"
+},
+{
+"id": "W064",
+"family": "anagram",
+"letters": "TEEDLOCER",
+"answer_sha256": "758d54bda3d865108b0b7acbe809b2c3d4b540e87ca8632367a042dcb9ec73bf"
+},
+{
+"id": "W065",
+"family": "anagram",
+"letters": "IESTTLALE",
+"answer_sha256": "e479d18cbbeea8709f41f586d5f4fd68e2b03f1e01ebe87311eb9ecb70048bb1"
+},
+{
+"id": "W066",
+"family": "anagram",
+"letters": "CIMNROAH",
+"answer_sha256": "95a74ea258459818f5ca5c0dc604bd5958ff8b27166faa4deff423076fc32a31"
+},
+{
+"id": "W067",
+"family": "anagram",
+"letters": "OUTRAOMEDLD",
+"answer_sha256": "ac149e33b99df72ceb1d8ecc1d010c4b5228ff4893cc987f4fa561b6f11c5d63"
+},
+{
+"id": "W068",
+"family": "anagram",
+"letters": "CCOAARTIP",
+"answer_sha256": "6ecc45de63f43a5de7e983386f63ec9fe60e014d67377faaebbd2e482df11d10"
+},
+{
+"id": "W069",
+"family": "anagram",
+"letters": "INBDDHWTA",
+"answer_sha256": "cbf48c7df2c13d6456de8c66a0c236fd9320337b4b9b1e78e30de0998473582d"
+},
+{
+"id": "W070",
+"family": "anagram",
+"letters": "ADEBKECF",
+"answer_sha256": "6c260547ea12a068e5753d7974ee75ac87c4759b384e0d988c0fc53ecfd711a8"
+},
+{
+"id": "W071",
+"family": "anagram",
+"letters": "RTSONIRTSA",
+"answer_sha256": "0e0c8f3fc3c1771fc196c75a56cb1832a267ace7fbcca1b437263dc0bfb6eb6c"
+},
+{
+"id": "W072",
+"family": "anagram",
+"letters": "WHDRAERA",
+"answer_sha256": "be1fde6bc9775b2a9ea4c00af4643e337ff1258bb91c89603cd06a6dd24e95ea"
+},
+{
+"id": "W073",
+"family": "anagram",
+"letters": "LEWEFHYL",
+"answer_sha256": "c5e32bc7fc633d159e9d8aa6026c83f473427e8be930751ab81c585b0ab9ce03"
+},
+{
+"id": "W074",
+"family": "anagram",
+"letters": "OHARTMTETS",
+"answer_sha256": "0ac9ea1c42fa50a27d86a717a78275fdd61598de1de4c0a819034625f1cd45cd"
+},
+{
+"id": "W075",
+"family": "anagram",
+"letters": "RSEECPPOI",
+"answer_sha256": "934575ec20b6d840722f9020c65b1b1cf7d7234ba598eba20b793acec11ece93"
+},
+{
+"id": "W076",
+"family": "anagram",
+"letters": "TUTEOLBOH",
+"answer_sha256": "feae2c09618699390677b8815d632e61e8a3b551845987bf14d84aec79b87175"
+},
+{
+"id": "W077",
+"family": "anagram",
+"letters": "TRTAEANLRO",
+"answer_sha256": "5f93e5d1203f5b8a802654beb1dfe71701da8a956e19eeb76bcd9b41460b0d53"
+},
+{
+"id": "W078",
+"family": "anagram",
+"letters": "MUDLOAOITN",
+"answer_sha256": "ffe98b6f36326007fb6469c85961fea05076b7bd23b5c0118c75995cd05257b1"
+},
+{
+"id": "W079",
+"family": "anagram",
+"letters": "RRPLOEEPL",
+"answer_sha256": "be0aa93035d2a5b44d7a5cf01098d737746b9fe1755540680d5aa400f2ce5463"
+},
+{
+"id": "W080",
+"family": "anagram",
+"letters": "BABEDDRRAO",
+"answer_sha256": "7b2e540608a79a1b63aafabe0c4df83f2e79f417e14c5b58fd4df55029409e7c"
+},
+{
+"id": "W081",
+"family": "anagram",
+"letters": "IRILMAEPF",
+"answer_sha256": "0727bf1f797c98d9511e8bcece946cf49610680f8985f90565613582c9edd443"
+},
+{
+"id": "W082",
+"family": "anagram",
+"letters": "ACLRETLCIE",
+"answer_sha256": "b06622cb3b99f29e77ebf9866e7b9db71b8fb5b896a0d644e62273eb8ca68544"
+},
+{
+"id": "W083",
+"family": "anagram",
+"letters": "RRIWEFAM",
+"answer_sha256": "ae078e3f46fe609b15167df690cb776bfe7d73ddfc914fa7d4ec81af8af7c3b3"
+},
+{
+"id": "W084",
+"family": "anagram",
+"letters": "HTIEPRCL",
+"answer_sha256": "8e423cefe77346123770122a725d340902358ac8863bfd209bca9732ee7fba45"
+},
+{
+"id": "W085",
+"family": "anagram",
+"letters": "TDILMEPAU",
+"answer_sha256": "628d44f573ba2aa69d912d58f77e8bd4fd23c778298df1f17d01ce8ff11e8857"
+},
+{
+"id": "W086",
+"family": "anagram",
+"letters": "UDGBREEG",
+"answer_sha256": "0e9a5b39132718764d18e639dbfdfe1eaed6187099597cbe9a0854a13fddd463"
+},
+{
+"id": "W087",
+"family": "anagram",
+"letters": "PEAUCAHTR",
+"answer_sha256": "53803d34949472581cfb5fcaefde0becb0fca34e84f893b878176f7c65d23d4d"
+},
+{
+"id": "W088",
+"family": "anagram",
+"letters": "EIHLTORECP",
+"answer_sha256": "49685fee833348be3e6f86e37b4e7bd0f372f0e096bc5607a6eaeb4115cb9a0c"
+},
+{
+"id": "W089",
+"family": "anagram",
+"letters": "RGALMOOH",
+"answer_sha256": "148bff57e2f26fb1190ee8c7feff31cd8c23769ab8242ea5dd33ca0dd51d20ee"
+},
+{
+"id": "W090",
+"family": "anagram",
+"letters": "TUIJCNNO",
+"answer_sha256": "ee892471db057c86d855d094bede9825ebba57f356820ad000409546e14e33bc"
+},
+{
+"id": "W091",
+"family": "anagram",
+"letters": "UNGRIMMEA",
+"answer_sha256": "c297ccc3233cacd46adfad10975e72422a76b07091cf166222da0a07f401b83c"
+},
+{
+"id": "W092",
+"family": "anagram",
+"letters": "TQCEUAUD",
+"answer_sha256": "d6d010b40c70627412bb868117e0c8e41befdb6e68f65c686135fafcf9c685c8"
+},
+{
+"id": "W093",
+"family": "anagram",
+"letters": "IVNCRTLAEE",
+"answer_sha256": "de9d0ead78b1c8412ab7281c14838b21322c6ff7979d7de4f5cba3ab48c0a44f"
+},
+{
+"id": "W094",
+"family": "anagram",
+"letters": "RSRPCSEOO",
+"answer_sha256": "887c5d2681d65953b2e75b6b7f17547cc9d6b05f56e96881c528ac91c246915c"
+},
+{
+"id": "W095",
+"family": "anagram",
+"letters": "LSOECEEPT",
+"answer_sha256": "f895ec32220476a615112d2518fe345d59f13b14511c3a7b17bc8a2febfd1c55"
+},
+{
+"id": "W096",
+"family": "anagram",
+"letters": "ASCHNRFATK",
+"answer_sha256": "4904c8e0c4c10245a5b2e558b39b62d32b8f9afaed3d903cb633614506558756"
+},
+{
+"id": "W097",
+"family": "anagram",
+"letters": "DFCIAITFORN",
+"answer_sha256": "fc88d3957a8504d569b1b6593603bf542bcc62ddc0b189f7ac5648f29966a5fe"
+},
+{
+"id": "W098",
+"family": "anagram",
+"letters": "PUEACITMN",
+"answer_sha256": "352dcdbbc70246fcb3c066fd8e656fd80b1a2f7ea84c0f77022d3724beae4ed4"
+},
+{
+"id": "W099",
+"family": "anagram",
+"letters": "RTTEYOOPP",
+"answer_sha256": "2e3e64ec7996574143a9a6ac160f4c67c5124462ee8885e4406943abb464e648"
+},
+{
+"id": "W100",
+"family": "anagram",
+"letters": "EDEMOTOR",
+"answer_sha256": "1b6955a4459834946bcdb7ac16727f77ca4d98ed60e91544093244aa27b9b110"
+},
+{
+"id": "W101",
+"family": "anagram",
+"letters": "ITHPOOEDDO",
+"answer_sha256": "7d77a011badab320ed561f5c3bc7ac7432510a8a3080b694be892173e01700b0"
+},
+{
+"id": "W102",
+"family": "anagram",
+"letters": "OHSDAENHPE",
+"answer_sha256": "a2d1678c0197e914216e2c16db13d97557f25d759896fe778919fd71661277ec"
+},
+{
+"id": "W103",
+"family": "anagram",
+"letters": "VWEIEDUAG",
+"answer_sha256": "fe7a5ada236a88d78488ff02f6fb12d57b4a6d98bbac555529f2b6cb8c5b1022"
+},
+{
+"id": "W104",
+"family": "anagram",
+"letters": "TSOTRHMREI",
+"answer_sha256": "bdfd5eb4a9de4ccb494e15cd1ef2b4418f92f5b4352e8ba209eaae3b0e3a70bc"
+},
+{
+"id": "W105",
+"family": "anagram",
+"letters": "PORAESKDUEL",
+"answer_sha256": "9343feba219ae0d35b6187722813878dbd5e59b5e0c0635b83cf6341798606d9"
+},
+{
+"id": "W106",
+"family": "anagram",
+"letters": "AREEOTLV",
+"answer_sha256": "f654582a4124be88f94c563cdad3efeb091392299de8e03ee5835b5d664e7068"
+},
+{
+"id": "W107",
+"family": "anagram",
+"letters": "TTALPUOOI",
+"answer_sha256": "17a71aa98015769decde204df0350ab26787fcfa530a924199c4b7c3e9a5cf0f"
+},
+{
+"id": "W108",
+"family": "anagram",
+"letters": "RETOENLC",
+"answer_sha256": "ad5da979436a1dd8e65feeeff4872ebb828b6203f88deab0ed8abb75d7f739ea"
+},
+{
+"id": "W109",
+"family": "anagram",
+"letters": "EEVAHNTGLW",
+"answer_sha256": "8da50dca92c813160332dc447148c0a50b3cfd268d6f1d98a52ac1f83beded25"
+},
+{
+"id": "W110",
+"family": "anagram",
+"letters": "RRDOTAAI",
+"answer_sha256": "ea257c91f8798c2bbd244b926b1754acfa65e9143675a52e9ebd0c83cdf62c8d"
+},
+{
+"id": "W111",
+"family": "anagram",
+"letters": "EACOARLTS",
+"answer_sha256": "483a3aec253ae429c1b3b4bed44416103f38104055e8b93b74312740135aed7e"
+}
+]
+}

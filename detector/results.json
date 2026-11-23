@@ -1,0 +1,247 @@
+{
+ "n_subjects": 20,
+ "n_epochs": 20626,
+ "kappa": 0.5934686152947526,
+ "accuracy": 0.7043537283040823,
+ "f1": {
+  "W": 0.7485773409208484,
+  "N1": 0.3183183183183183,
+  "N2": 0.7782989545069229,
+  "N3": 0.6167304537998907,
+  "REM": 0.7026290696090451
+ },
+ "kappa_per_subject": [
+  0.7536990747649605,
+  0.6340993957127563,
+  0.5951288914795867,
+  0.5451356670998926,
+  0.6457727910945132,
+  0.5452800140998446,
+  0.4843529188432901,
+  0.7565343103558242,
+  0.6463999636558122,
+  0.6202097219165172,
+  0.5004129722133682,
+  0.5043288834273585,
+  0.4888477556686719,
+  0.634620353511031,
+  0.7064085146511716,
+  0.7373541257874625,
+  0.49070577735058873,
+  0.13848524906184456,
+  0.6494251669425346,
+  0.6542179523456734
+ ],
+ "confusion": [
+  [
+   2894,
+   251,
+   77,
+   22,
+   205
+  ],
+  [
+   314,
+   477,
+   194,
+   6,
+   249
+  ],
+  [
+   452,
+   545,
+   6886,
+   773,
+   544
+  ],
+  [
+   231,
+   26,
+   1024,
+   1692,
+   8
+  ],
+  [
+   392,
+   458,
+   314,
+   13,
+   2579
+  ]
+ ],
+ "rem_detector": [
+  {
+   "threshold": 0.5,
+   "fires": 3310,
+   "ppv": 0.739274924471299,
+   "sensitivity": 0.6514909478168264,
+   "fires_by_true_stage": {
+    "W": 169,
+    "N1": 217,
+    "N2": 471,
+    "N3": 6,
+    "REM": 2447
+   },
+   "fires_in_N3_or_W_pct": 0.052870090634441085
+  },
+  {
+   "threshold": 0.6,
+   "fires": 2991,
+   "ppv": 0.7649615513206286,
+   "sensitivity": 0.6091586794462194,
+   "fires_by_true_stage": {
+    "W": 148,
+    "N1": 166,
+    "N2": 387,
+    "N3": 2,
+    "REM": 2288
+   },
+   "fires_in_N3_or_W_pct": 0.05015045135406219
+  },
+  {
+   "threshold": 0.7,
+   "fires": 2619,
+   "ppv": 0.7869415807560137,
+   "sensitivity": 0.5487220447284346,
+   "fires_by_true_stage": {
+    "W": 117,
+    "N1": 132,
+    "N2": 307,
+    "N3": 2,
+    "REM": 2061
+   },
+   "fires_in_N3_or_W_pct": 0.045437189767086675
+  },
+  {
+   "threshold": 0.8,
+   "fires": 2176,
+   "ppv": 0.8212316176470589,
+   "sensitivity": 0.47577209797657083,
+   "fires_by_true_stage": {
+    "W": 75,
+    "N1": 90,
+    "N2": 222,
+    "N3": 2,
+    "REM": 1787
+   },
+   "fires_in_N3_or_W_pct": 0.035386029411764705
+  },
+  {
+   "threshold": 0.9,
+   "fires": 1576,
+   "ppv": 0.8540609137055838,
+   "sensitivity": 0.35835995740149096,
+   "fires_by_true_stage": {
+    "W": 40,
+    "N1": 50,
+    "N2": 140,
+    "N3": 0,
+    "REM": 1346
+   },
+   "fires_in_N3_or_W_pct": 0.025380710659898477
+  }
+ ],
+ "nap_detector": [
+  {
+   "p_sleep_threshold": 0.5,
+   "consecutive_epochs": 1,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": -4.25,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -12.125,
+    0.125
+   ],
+   "alarm_before_scored_N2_pct": 0.95,
+   "n2_stop_minus_scored_N2_min_median": 0.25,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.0,
+    2.625
+   ]
+  },
+  {
+   "p_sleep_threshold": 0.5,
+   "consecutive_epochs": 2,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": -1.75,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -6.875,
+    1.125
+   ],
+   "alarm_before_scored_N2_pct": 0.85,
+   "n2_stop_minus_scored_N2_min_median": 1.25,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.5,
+    4.5
+   ]
+  },
+  {
+   "p_sleep_threshold": 0.6,
+   "consecutive_epochs": 1,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": -2.5,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -8.875,
+    0.5
+   ],
+   "alarm_before_scored_N2_pct": 0.95,
+   "n2_stop_minus_scored_N2_min_median": 0.5,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.0,
+    3.125
+   ]
+  },
+  {
+   "p_sleep_threshold": 0.6,
+   "consecutive_epochs": 2,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": -0.75,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -5.125,
+    1.125
+   ],
+   "alarm_before_scored_N2_pct": 0.85,
+   "n2_stop_minus_scored_N2_min_median": 2.25,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.5,
+    4.5
+   ]
+  },
+  {
+   "p_sleep_threshold": 0.7,
+   "consecutive_epochs": 1,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": -2.25,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -6.25,
+    1.0
+   ],
+   "alarm_before_scored_N2_pct": 0.85,
+   "n2_stop_minus_scored_N2_min_median": 0.5,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.0,
+    4.875
+   ]
+  },
+  {
+   "p_sleep_threshold": 0.7,
+   "consecutive_epochs": 2,
+   "nights": 20,
+   "onset_alarm_minus_scored_onset_min_median": 0.75,
+   "onset_alarm_minus_scored_onset_min_IQR": [
+    -5.125,
+    2.75
+   ],
+   "alarm_before_scored_N2_pct": 0.75,
+   "n2_stop_minus_scored_N2_min_median": 2.75,
+   "n2_stop_minus_scored_N2_min_IQR": [
+    0.5,
+    8.25
+   ]
+  }
+ ],
+ "scored_N1_window_min": {
+  "median": 3.25,
+  "min": 1.5,
+  "max": 114.0
+ }
+}

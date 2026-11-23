@@ -1,0 +1,20 @@
+{
+ "cue": "Think of a {object}. A {object}. Think about a {object}, and everything a {object} could be used for.",
+ "sham": "Notice your breathing. Notice the sounds in the room, and let your thoughts go wherever they go.",
+ "wake": "What were you just thinking about? Tell me everything you remember.",
+ "objects": [
+  "brick",
+  "paperclip",
+  "tyre",
+  "shoe",
+  "newspaper",
+  "bucket",
+  "rope",
+  "spoon",
+  "umbrella",
+  "cardboard box",
+  "coat hanger",
+  "candle"
+ ],
+ "notes": "Cue text follows Haar Horowitz et al. 2023 (Dormio, 'think of a tree'); sham follows their observe-your-thoughts control. Objects are standard Alternative Uses Task items."
+}

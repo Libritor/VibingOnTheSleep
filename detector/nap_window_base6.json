@@ -1,0 +1,170 @@
+[
+ {
+  "th": 0.5,
+  "k": 1,
+  "inside_N1_window": 7,
+  "early_within_2min": 1,
+  "early_over_2min": 11,
+  "late_in_N2_or_after": 1,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 12,
+   "N1": 7,
+   "N2": 1
+  }
+ },
+ {
+  "th": 0.5,
+  "k": 2,
+  "inside_N1_window": 7,
+  "early_within_2min": 1,
+  "early_over_2min": 10,
+  "late_in_N2_or_after": 2,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 11,
+   "N1": 7,
+   "N2": 2
+  }
+ },
+ {
+  "th": 0.5,
+  "k": 3,
+  "inside_N1_window": 5,
+  "early_within_2min": 2,
+  "early_over_2min": 9,
+  "late_in_N2_or_after": 4,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 11,
+   "N1": 5,
+   "N2": 4
+  }
+ },
+ {
+  "th": 0.6,
+  "k": 1,
+  "inside_N1_window": 7,
+  "early_within_2min": 2,
+  "early_over_2min": 10,
+  "late_in_N2_or_after": 1,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 12,
+   "N1": 7,
+   "N2": 1
+  }
+ },
+ {
+  "th": 0.6,
+  "k": 2,
+  "inside_N1_window": 8,
+  "early_within_2min": 1,
+  "early_over_2min": 8,
+  "late_in_N2_or_after": 3,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 9,
+   "N1": 8,
+   "N2": 3
+  }
+ },
+ {
+  "th": 0.6,
+  "k": 3,
+  "inside_N1_window": 8,
+  "early_within_2min": 2,
+  "early_over_2min": 6,
+  "late_in_N2_or_after": 4,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 9,
+   "N1": 7,
+   "N2": 4
+  }
+ },
+ {
+  "th": 0.7,
+  "k": 1,
+  "inside_N1_window": 8,
+  "early_within_2min": 3,
+  "early_over_2min": 8,
+  "late_in_N2_or_after": 1,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 11,
+   "N1": 8,
+   "N2": 1
+  }
+ },
+ {
+  "th": 0.7,
+  "k": 2,
+  "inside_N1_window": 6,
+  "early_within_2min": 2,
+  "early_over_2min": 7,
+  "late_in_N2_or_after": 5,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 9,
+   "N1": 6,
+   "N2": 5
+  }
+ },
+ {
+  "th": 0.7,
+  "k": 3,
+  "inside_N1_window": 8,
+  "early_within_2min": 2,
+  "early_over_2min": 5,
+  "late_in_N2_or_after": 5,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 8,
+   "N1": 7,
+   "N2": 5
+  }
+ },
+ {
+  "th": 0.8,
+  "k": 1,
+  "inside_N1_window": 7,
+  "early_within_2min": 2,
+  "early_over_2min": 7,
+  "late_in_N2_or_after": 4,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "W": 9,
+   "N1": 7,
+   "N2": 4
+  }
+ },
+ {
+  "th": 0.8,
+  "k": 2,
+  "inside_N1_window": 8,
+  "early_within_2min": 2,
+  "early_over_2min": 4,
+  "late_in_N2_or_after": 6,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "N1": 7,
+   "W": 7,
+   "N2": 6
+  }
+ },
+ {
+  "th": 0.8,
+  "k": 3,
+  "inside_N1_window": 10,
+  "early_within_2min": 0,
+  "early_over_2min": 3,
+  "late_in_N2_or_after": 7,
+  "never": 0,
+  "scored_stage_at_alarm": {
+   "N1": 9,
+   "N2": 7,
+   "W": 4
+  }
+ }
+]
